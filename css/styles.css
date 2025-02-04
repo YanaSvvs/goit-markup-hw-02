@@ -1,8 +1,15 @@
-.roboto-body {
+body {
     font-family: "Roboto", serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-    font-variation-settings:
-        "wdth" 100;
+    font-variation-settings: "wdth" 100;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
