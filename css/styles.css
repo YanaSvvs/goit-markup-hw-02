@@ -137,7 +137,9 @@ button {
         color: #434455;
 }
 
-.team {}
+.team {
+    background-color: #F4F4FD
+}
 
 .team-caption {
         font-weight: 700;
@@ -151,7 +153,9 @@ button {
 
 .team-list {}
 
-.team-list-people {}
+.team-list-people {
+    background-color: #FFFFFF
+}
 
 .team-img {}
 
