@@ -5,7 +5,7 @@ body {
     font-style: normal;
     font-variation-settings: "wdth" 100;
     background-color: #fff;
-    color: #2e2f42;
+    color: #434455;
 }
 
 ul {
@@ -31,10 +31,10 @@ button {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .logo-color{
@@ -44,7 +44,7 @@ button {
         line-height: 1.16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4d5ae5;
+        color: #2e2f42;
 }
 
 .header-nav-list {}
@@ -63,7 +63,9 @@ button {
         color: #2e2f42;
 }
 
-.header-adr {}
+.header-adr {
+    font-style: normal
+}
 
 .header-adr-list {}
 
@@ -144,6 +146,7 @@ button {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .team-list {}
@@ -170,7 +173,9 @@ button {
         color: #434455;
 }
 
-.Portfolio {}
+.Portfolio {
+    background-color: #F4F4FD
+}
 
 .Portfolio-caption {
         font-weight: 700;
@@ -179,11 +184,14 @@ button {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .Portfolio-list {}
 
-.Portfolio-list-item {}
+.Portfolio-list-item {
+    background-color: #FFFFFF;
+}
 
 .Portfolio-img {}
 
@@ -213,13 +221,15 @@ button {
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: #4d5ae5;
 }
 
-.logo-color {}
+.logo-color {
+    color: #f4f4fd;
+}
 
 .footer-text {
         font-weight: 400;
