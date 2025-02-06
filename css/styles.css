@@ -173,11 +173,11 @@ button {
         color: #434455;
 }
 
-.Portfolio {
+.portfolio {
     background-color: #F4F4FD
 }
 
-.Portfolio-caption {
+.portfolio-caption {
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -187,15 +187,17 @@ button {
         text-transform: capitalize;
 }
 
-.Portfolio-list {}
+.portfolio-list {
+    background-color: #FFFFFF
+}
 
-.Portfolio-list-item {
+.portfolio-list-item {
     background-color: #FFFFFF;
 }
 
-.Portfolio-img {}
+.portfolio-img {}
 
-.Portfolio-subtitle {
+.portfolio-subtitle {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -203,7 +205,7 @@ button {
         color: #2e2f42;
 }
 
-.Portfolio-text {
+.portfolio-text {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
